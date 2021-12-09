@@ -8,7 +8,10 @@ public class Demo  {
 	@Test
 	public void demo() throws Throwable {
 		System.out.println("Demo Script");
-		System.out.println("Hello");
+		System.out.println("Demo Prog");
+		System.out.println("Demo Script");
+		System.out.println("Demo Prog");
+
 		
 		
 	}
