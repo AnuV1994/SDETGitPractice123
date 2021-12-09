@@ -8,7 +8,7 @@ public class Demo  {
 	@Test
 	public void demo() throws Throwable {
 		System.out.println("Demo Script");
-		System.out.println("Dem");
+	
 		System.out.println("3rd sdet Changes");
 		
 		
