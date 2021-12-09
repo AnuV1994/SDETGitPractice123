@@ -11,7 +11,7 @@ public class Demo  {
 		System.out.println("Demo Script");
 		System.out.println("Demo Script");
 		System.out.println("Demo Script");
-		System.out.println("Demo Script");
+		System.out.println("Demo Scrit");
 		System.out.println("Demo Script");
 		System.out.println("Demo Script");
 
