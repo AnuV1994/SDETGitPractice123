@@ -9,7 +9,7 @@ public class Demo  {
 	public void demo() throws Throwable {
 		System.out.println("Demo Script");
 		System.out.println("Demo Script after import");
-     	System.out.println("Demo Script after import second time");
+     	System.out.println("Demo Script after import secotime");
 	}
 }
 	
