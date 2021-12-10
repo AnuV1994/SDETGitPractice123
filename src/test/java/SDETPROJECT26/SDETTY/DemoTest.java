@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 
 
-public class Demo  {
+public class DemoTest  {
 	@Test
 	public void demo() throws Throwable {
 		System.out.println("Deo Scripccct");
