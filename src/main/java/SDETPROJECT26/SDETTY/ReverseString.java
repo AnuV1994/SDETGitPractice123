@@ -10,6 +10,10 @@ public class ReverseString {
 		 
 		 String reverse = new StringBuffer(s).reverse().toString();
 		 System.out.println(reverse);
+		/**  System.out.println(reverse);
+		 System.out.println(reverse);
+		 System.out.println(reverse);
+		 System.out.println(reverse);  **/
 		 
 		 String newstring = new StringBuffer(reverse).append("Java").toString();
 		 
