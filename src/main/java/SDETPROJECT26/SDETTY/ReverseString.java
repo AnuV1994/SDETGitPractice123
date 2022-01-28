@@ -10,8 +10,10 @@ public class ReverseString {
 		 
 		 String reverse = new StringBuffer(s).reverse().toString();
 		 System.out.println(reverse);
+		 
 		 String newstring = new StringBuffer(reverse).append("Java").toString();
 		 
+		 System.out.println(newstring);
 		 System.out.println(newstring);
 		 
 		 StringBuffer additionalstring = new StringBuffer(newstring);
